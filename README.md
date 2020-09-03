@@ -67,7 +67,7 @@ Planned features:
 Known issues:
 
     *   Application freezes while loading data (User should wait until process is finished)
-    *   MultiPolygon import isn't supported from Shapefiles but is working fine in GeoJSON formats
+    *   Mixed Geometries import isn't supported from Shapefiles but is working fine in GeoJSON formats
     *************************************************************************************************
     -   We've been actively working on testing the tool, and fixing bugs/issues
         as soon as we find any, but no tool is complete and invulnerable.
