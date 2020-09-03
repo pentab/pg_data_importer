@@ -1,9 +1,8 @@
                                                     PostgreSQL Spatial Data Importer
-													
 
 Description:
-        This tool was built from scratch to support importing data from different file types
-        into PostgreSQL databes' tables. 
+	This tool was built from scratch to support importing data from different file types
+	into PostgreSQL databes' tables. 
 
 How to use:
         Considering the tool's current state, you simply have to follow the options available in front
