@@ -1,0 +1,44 @@
+{
+    "names": [
+        "Local",
+        "ACUD",
+        "MOT",
+        "DEMOs",
+        "Climate"
+    ],
+    "servers": [
+        "localhost",
+        "34.198.189.139",
+        "34.231.27.162",
+        "35.169.173.196",
+        "54.204.189.248"
+    ],
+    "ports": [
+        "5432",
+        "5432",
+        "5432",
+        "5432",
+        "5432"
+    ],
+    "users": [
+        "postgres",
+        "postgres",
+        "mot",
+        "postgres",
+        "postgres"
+    ],
+    "passwords": [
+        "postgres",
+        "Ac_U[2oD20p#",
+        "MOT#@659PRO@",
+        "mO@d#a[_90$",
+        "climate"
+    ],
+    "databases": [
+        "postgres",
+        "ACUD",
+        "mot",
+        "nfsa",
+        "msd_climate_change"
+    ]
+}

@@ -1,0 +1,19 @@
+[+] 22:12:34.850697: File /home/ca5p3r/Downloads/Locations/Locations.shp added
+[+] 22:12:34.850697: Attributes are:
+	[*] field_1
+	[*] field_2
+	[*] lat
+	[*] long
+[-] 22:13:13.943998: Error: column "id" of relation "mean_of_air_temperature_at_2m_1981_2010_locations" does not exist
+LINE 1: ...ean_of_air_temperature_at_2m_1981_2010_locations (id, geomet...
+                                                             ^
+
+[+] 22:13:29.402365: File /home/ca5p3r/Downloads/Locations/Locations.shp added
+[+] 22:13:29.402365: Attributes are:
+	[*] field_1
+	[*] field_2
+	[*] lat
+	[*] long
+[-] 22:13:59.592296: Error: column "id" does not exist
+LINE 1: ...1981_2010_locations_id_seq', COALESCE((SELECT MAX(id)+1 FROM...
+                                                             ^

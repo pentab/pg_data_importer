@@ -1,0 +1,9 @@
+{
+    "sql": {
+        "table": {
+            "create": "DROP TABLE IF EXISTS {0}.{1} CASCADE;CREATE TABLE {0}.{1} ({2});",
+            "index": "CREATE INDEX {0}_{1}_idx ON {2}.{0} USING GIST ({1});",
+            "truncate": "TRUNCATE TABLE {0}.{1} CASCADE;"
+        }
+    }
+}

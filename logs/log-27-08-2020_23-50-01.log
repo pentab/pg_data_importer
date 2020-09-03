@@ -1,0 +1,12 @@
+[+] 23:50:03.795881: File /home/ca5p3r/Downloads/import.csv added
+[-] 23:50:22.036627: Error: relation "public.mean_sea_level_pressure_1981_2010_values_ogc_fid_seq" does not exist
+LINE 1: ...14.64', '2005-12-01', '2005', '50');SELECT setval('public.me...
+                                                             ^
+
+[+] 23:51:54.115824: File import: Success
+[+] 23:57:47.045586: File /home/ca5p3r/Downloads/mean_of_minimum_air_temperature_1981_2010_values.csv added
+[+] 23:58:13.089685: File import: Success
+[+] 23:58:55.575373: File /home/ca5p3r/Downloads/mean_of_air_temperature_at_2m_1981_2010_values.csv added
+[+] 23:59:10.144697: File import: Success
+[+] 23:59:20.111611: File /home/ca5p3r/Downloads/mean_of_monthly_total_precipita_1981_2010_values.csv added
+[+] 23:59:37.004175: File import: Success

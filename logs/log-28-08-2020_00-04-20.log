@@ -1,0 +1,4 @@
+[+] 00:04:36.846097: File /home/ca5p3r/Downloads/mean_of_relative_humidity_1981_2010_values.csv added
+[-] 00:04:53.944953: Error: syntax error at or near ")"
+LINE 1: ...ty_1981_2010_values_(_seq', COALESCE((SELECT MAX(()+1 FROM p...
+                                                             ^

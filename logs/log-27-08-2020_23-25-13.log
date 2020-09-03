@@ -1,0 +1,4 @@
+[+] 23:25:17.491835: File /home/ca5p3r/Downloads/import.csv added
+[-] 23:28:24.502432: Error: date/time field value out of range: "2005-02-31"
+LINE 1: ...9.53', '2005-01-31', '2005', '1'), (2, '1018.19', '2005-02-3...
+                                                             ^

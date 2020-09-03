@@ -1,0 +1,24 @@
+[+] 15:13:31.388100: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:14:56.289778: File import: Success
+[+] 15:22:18.462856: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:22:59.058879: File import: Success
+[+] 15:25:12.753098: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:25:48.287884: File import: Success
+[+] 15:26:49.641889: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:27:17.493695: File import: Success
+[+] 15:29:57.429002: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:30:24.588358: File import: Success
+[+] 15:32:05.346476: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[-] 15:32:24.480298: Error: relation "public.language" does not exist
+LINE 1: INSERT INTO public.language (id, text_en, text_ar) VALUES (1...
+                    ^
+
+[-] 15:32:43.661970: Error: relation "public.lut_language" does not exist
+LINE 1: INSERT INTO public.lut_language (id, text_en, text_ar) VALUE...
+                    ^
+
+[+] 15:32:51.523972: File import: Success
+[+] 15:33:33.448325: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:33:59.520200: File import: Success
+[+] 15:35:41.181220: File /home/ca5p3r/My programs/pg_data_importer-master/data.csv added
+[+] 15:36:11.156407: File import: Success

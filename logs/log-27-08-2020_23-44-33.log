@@ -1,0 +1,10 @@
+[+] 23:44:36.297275: File /home/ca5p3r/Downloads/import.csv added
+[-] 23:44:45.040382: Error: Invalid delimiter
+[-] 23:45:05.686044: Error: date/time field value out of range: "2005-04-31"
+LINE 1: ...6.22', '2005-03-31', '2005', '1'), (4, '1014.62', '2005-04-3...
+                                                             ^
+
+[+] 23:48:22.981771: File /home/ca5p3r/Downloads/import.csv added
+[-] 23:48:42.561522: Error: column "id" does not exist
+LINE 1: ...re_1981_2010_values_id_seq', COALESCE((SELECT MAX(id)+1 FROM...
+                                                             ^

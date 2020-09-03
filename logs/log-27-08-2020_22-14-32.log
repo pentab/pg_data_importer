@@ -1,0 +1,15 @@
+[+] 22:14:34.839329: File /home/ca5p3r/Downloads/Locations/Locations.shp added
+[+] 22:14:34.839329: Attributes are:
+	[*] field_1
+	[*] field_2
+	[*] lat
+	[*] long
+[+] 22:14:46.853330: File /home/ca5p3r/Downloads/Locations/Locations.shp added
+[+] 22:14:46.853330: Attributes are:
+	[*] field_1
+	[*] field_2
+	[*] lat
+	[*] long
+[-] 22:15:07.468300: Error: column "id" does not exist
+LINE 1: ..._2010_locations_ogc_id_seq', COALESCE((SELECT MAX(id)+1 FROM...
+                                                             ^

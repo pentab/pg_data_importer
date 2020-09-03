@@ -1,0 +1,9 @@
+os
+sys
+json
+psycopg2
+datetime
+PyQt5
+csv
+shapefile
+re
