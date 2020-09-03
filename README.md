@@ -1,10 +1,14 @@
                                                     PostgreSQL Spatial Data Importer
 
+
 Description:
+
 	This tool was built from scratch to support importing data from different file types
+	
 	into PostgreSQL databes' tables. 
 
 How to use:
+
         Considering the tool's current state, you simply have to follow the options available in front
         of you. It's as simple as doing the following:
         -   Choose file format
@@ -38,6 +42,7 @@ How to use:
             *   If you feel like you messed up, click "Cancel" which will reset the UI for you ;)
 
 Features:
+
     -   Support for numeric fields
     -   Supoort for null values
     -   Support for date values
@@ -56,9 +61,11 @@ Features:
         -   Support for appending data to table
 
 Planned features:
+
     -   Support for more spatial file formats
 
 Known issues:
+
     *   Application freezes while loading data (User should wait until process is finished)
     *   MultiPolygon import isn't supported from Shapefiles but is working fine in GeoJSON formats
     *************************************************************************************************
